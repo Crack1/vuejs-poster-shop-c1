@@ -64,3 +64,6 @@ Your site will be available at *localhost:[PORT]* where `PORT` is whatever value
 
 Note that branches in the repo named `lecture/xxx` correspond to course lectures.
 
+
+git remote -v
+git remote set-url origin https://github.com/Crack1/vuejs-poster-shop-c1.git
